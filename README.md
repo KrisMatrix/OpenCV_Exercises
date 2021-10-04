@@ -11,29 +11,29 @@ This repository showcase small projects made with OpenCV.
 
 ## Face Detection
 
-![Face Detection 1](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/face_detection.png)
+![Face Detection 1](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/face_detection.png)
 
-![Face Detection 2](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/face_detection2.png)
+![Face Detection 2](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/face_detection2.png)
 
 ## Number Place Detect
 
-![Image of Car](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/num_place_detect_1.png)
+![Image of Car](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/num_place_detect_1.png)
 
-![Detected License Plate](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/num_plate_detect_2.png)
+![Detected License Plate](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/num_plate_detect_2.png)
 
-![Detection Notice](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/num_plate_detect_3.png)
+![Detection Notice](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/num_plate_detect_3.png)
 
 ## Color Detection
 
-![Color Detection](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/color_detect.gif)
+![Color Detection](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/color_detect.gif)
 
 ## Pose Estimation
 
-![Pose Estimation](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/pose_estimation.gif)
+![Pose Estimation](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/pose_estimation.gif)
 
 The video used in this pose estimation gif comes from pexels.com and creator 
 Anastasia Shuraeva.
 
-![Object Segmentation](https://github.com/KrisMatrix/opencv_exercises/blob/main/readmeFiles/object_detection.gif)
+![Object Segmentation](https://github.com/KrisMatrix/OpenCV_Exercises/blob/main/readmeFiles/object_detection.gif)
 
 Here I am doing object detection (that's me in the gif btw).
